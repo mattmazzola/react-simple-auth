@@ -1,6 +1,6 @@
 {
   "name": "react-simple-auth",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/react-simple-auth.umd.js",
